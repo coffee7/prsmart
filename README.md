@@ -5,7 +5,7 @@
 
 ## 系统要求
 - Python 3.8+
-- Ollama服务运行中
+- Ollama服务运行中 配置阿里云通义千问模型 ollama pull qwen3:4b 
 - 必要的Python依赖包：
   ```bash
   pip install requests
